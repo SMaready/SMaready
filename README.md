@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SMaready/SMaready/main/banner.png" alt="Banner" />
-</p>
-
 <h1 align="center">Hi there, I'm Stephan 👋</h1>
 
 <p align="center">
