@@ -18,20 +18,12 @@ I'm a senior Computer Science student passionate about **real-time computer grap
 
 ---
 
-### 🌱 Currently Learning
-
-- Vulkan graphics programming
-- Engine architecture and ECS design
-- Performance profiling and optimization
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** C++, Python, Lua, GLSL
 - **Graphics & Game Dev:** OpenGL, Unreal Engine 5, Pygame
 - **Systems & Tooling:** CMake, Git, Linux/Embedded Linux, Docker, vcpkg
-- **Hardware & Robotics:** ESP32, Raspberry Pi, ROS2
+- **Hardware & Robotics:** ESP32, Raspberry Pi
 
 ---
 
